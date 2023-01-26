@@ -14,4 +14,4 @@ I have used React.js for the functionality of this app and CSS for styling.
 </p>
 
 ## Live App
-[ExpenseTrackerApp](expense-tracker-demo-app.netlify.app)
+[expense-tracker-demo-app.netlify.app](expense-tracker-demo-app.netlify.app)
