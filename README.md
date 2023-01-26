@@ -9,5 +9,5 @@ You log in your expenses, i.e title, amount and date of your particular expense 
 I have used React.js for the functionality of this app and CSS for styling.
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/90522990/214761658-57c9f1ad-79cf-445a-aa68-5e07ab7c155c.png" width="200" height="250" />
+<img src="https://user-images.githubusercontent.com/90522990/214761658-57c9f1ad-79cf-445a-aa68-5e07ab7c155c.png" width="300" height="400" />
 
