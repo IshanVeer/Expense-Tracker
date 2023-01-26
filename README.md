@@ -9,4 +9,4 @@ You log in your expenses, i.e title, amount and date of your particular expense 
 I have used React.js for the functionality of this app and CSS for styling.
 
 ## Demo
-![ExpenseTracker](../../React%20Revision/1-Budget-App/src/Assets/Expense%20Tracker%20App.png)
+![Expense Tracker](./Expense-Tracker-App.png)
