@@ -51,7 +51,6 @@ const ExpenseForm = (props) => {
         </div>
       </div>
       <div>
-        <button type="click">Cancel</button>
         <button type="submit"  >Add Expense</button>
       </div>
     </form>
